@@ -54,6 +54,7 @@ img:hover {
 
 #wrap main header h1.logo img {
     margin-top: 50px;
+    
 }
 
 /* 멀티 풀메뉴 */
@@ -362,7 +363,7 @@ nav.menu .bg {
 }
 
 #wrap footer .blogo {
-    width: 10%;
+    width: 25%;
     height: 120px;
 }
 
@@ -372,7 +373,7 @@ nav.menu .bg {
 }
 
 #wrap footer .mc {
-    width: 90%;
+    width: 75%;
 }
 
 #wrap footer .mc .bmenu {
